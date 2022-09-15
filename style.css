@@ -1,0 +1,26 @@
+body{
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  background-color: #3FA796;
+}
+h1{
+  margin:30px auto;
+
+  font-size: 6rem;
+  color:#8758FF;
+  text-shadow: 3px 1px 2px black;
+}
+p{
+  font-size: 3rem;
+  color:#5CB8E4;
+}
+.players{
+  display: flex;
+  flex-direction: row;
+}
+.p1{
+  width:100%;
+}
+.p2{
+  width:100%;
+}
